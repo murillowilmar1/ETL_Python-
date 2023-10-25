@@ -9,7 +9,7 @@
 
 - Implementación de un flujo de ejecución en la que se ejecute un proceso ETL cpn Python, realizando la extracción de una base de datos SQL server, realizar  algunas transformaciones y luego cargarlas a una base de datos Postgresql
 
-- 
+
 # Herramientas del proyecto 
 - Python 
 - BD SQL Server
