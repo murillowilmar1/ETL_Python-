@@ -21,7 +21,7 @@
 ### Archivo 
 
 
-- **ETL_Python ** : Archivo que almacena el script de pytho que facilita el ETL  de SQL server a Postgresql
+- **ETL_Python** : Archivo que almacena el script de pytho que facilita el ETL  de SQL server a Postgresql
 
 
   # Procediemiento
